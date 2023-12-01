@@ -115,7 +115,6 @@ body{
     font-size: 2em; 
     margin-bottom: 0.5em; 
   } 
-   
      .btn-2{
      background-color: white;
      color:coral;
@@ -127,6 +126,8 @@ body{
      font-size:13px;
      float:left;
  }
+
+  /* footer */
  footer{
     background-color: black;
     color:white;
